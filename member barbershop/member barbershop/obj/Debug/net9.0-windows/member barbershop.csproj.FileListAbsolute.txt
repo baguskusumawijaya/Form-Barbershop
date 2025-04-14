@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\member barbershop\member barbershop\obj\Debug\net9.0-windows\member_barbershop.Form1.resources
+C:\Users\ASUS\source\repos\member barbershop\member barbershop\obj\Debug\net9.0-windows\member barbershop.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\member barbershop\member barbershop\obj\Debug\net9.0-windows\member barbershop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\member barbershop\member barbershop\obj\Debug\net9.0-windows\member barbershop.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\member barbershop\member barbershop\obj\Debug\net9.0-windows\member barbershop.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\member barbershop\member barbershop\obj\Debug\net9.0-windows\member barbershop.csproj.CoreCompileInputs.cache
